@@ -24,7 +24,6 @@
 
 ## Author
 
-BNCT_1360
-
+1360
 GitHub:
 https://github.com/muhammadaliibnabitalib-1360
