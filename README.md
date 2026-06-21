@@ -18,9 +18,6 @@
   <img src="banner2.jpg" width="800">
 </p>
 
-## Live Demo
-
-🔗 https://muhammadaliibnabitalib-1360.github.io/Defacement-Page/
 
 ## Disclaimer
 
@@ -29,3 +26,6 @@
 ## Author
 
 BNCT_1360
+
+GitHub:
+https://github.com/muhammadaliibnabitalib-1360
